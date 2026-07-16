@@ -1,5 +1,4 @@
 # IDEs
-.vscode/
 __debug_bin
 .idea/
 .DS_Store
@@ -25,3 +24,7 @@ docs/_build/
 
 # Local E2E: cloned for building Spark Operator image (SPARK_OPERATOR_IMAGE_TAG=local)
 spark-operator/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
